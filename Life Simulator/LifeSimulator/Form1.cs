@@ -21,6 +21,7 @@ namespace LifeSimulator
         private static Assembly assembly = Assembly.GetExecutingAssembly();
         private static Stream resourseStream = assembly.GetManifestResourceStream(@"LifeSimulator.music.wav");
         private SoundPlayer soundPlayer = new SoundPlayer(resourseStream);
+
         public Form1()
         {
             InitializeComponent();
