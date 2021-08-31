@@ -1,0 +1,22 @@
+D:\Программирование\C#\LifeSimulator\bin\Debug\LifeSimulator.exe.config
+D:\Программирование\C#\LifeSimulator\bin\Debug\LifeSimulator.exe
+D:\Программирование\C#\LifeSimulator\bin\Debug\LifeSimulator.pdb
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.csprojAssemblyReference.cache
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.Form1.resources
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.Properties.Resources.resources
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.csproj.GenerateResource.cache
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.exe
+D:\Программирование\C#\LifeSimulator\obj\Debug\LifeSimulator.pdb
+D:\Программирование\C#\Life Simulator\LifeSimulator\bin\Debug\LifeSimulator.exe.config
+D:\Программирование\C#\Life Simulator\LifeSimulator\bin\Debug\LifeSimulator.exe
+D:\Программирование\C#\Life Simulator\LifeSimulator\bin\Debug\LifeSimulator.pdb
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.csprojAssemblyReference.cache
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\Interop.WMPLib.dll
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.ResolveComReference.cache
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.Form1.resources
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.Properties.Resources.resources
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.GenerateResource.cache
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.exe
+D:\Программирование\C#\Life Simulator\LifeSimulator\obj\Debug\LifeSimulator.pdb

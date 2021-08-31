@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeSimulator", "LifeSimulator.csproj", "{B62C8816-C503-4982-9FDD-74D0E02CB7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeSimulator_Console", "..\LifeSimulator_Console\LifeSimulator_Console.csproj", "{25619DBB-5764-4C52-85AA-6AF8C7086C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62C8816-C503-4982-9FDD-74D0E02CB7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62C8816-C503-4982-9FDD-74D0E02CB7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62C8816-C503-4982-9FDD-74D0E02CB7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62C8816-C503-4982-9FDD-74D0E02CB7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25619DBB-5764-4C52-85AA-6AF8C7086C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25619DBB-5764-4C52-85AA-6AF8C7086C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25619DBB-5764-4C52-85AA-6AF8C7086C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25619DBB-5764-4C52-85AA-6AF8C7086C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D475927-7A6D-4E90-9C2E-30EC5C17968E}
+	EndGlobalSection
+EndGlobal
